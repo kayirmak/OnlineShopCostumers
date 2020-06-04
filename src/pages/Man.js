@@ -6,6 +6,7 @@ class Man extends Component {
             <div>
                 Man
             </div>
+            <div>Man is </div>
         );
     }
 }
