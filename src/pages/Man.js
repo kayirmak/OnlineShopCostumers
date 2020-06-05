@@ -5,8 +5,8 @@ class Man extends Component {
         return (
             <div>
                 Man
+                <div>Man is </div>
             </div>
-            <div>Man is </div>
         );
     }
 }

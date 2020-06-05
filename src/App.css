@@ -93,6 +93,53 @@ ul, li{
   color: #fff;
 }
 
+.contacts{
+  width: 95%;
+  margin: auto;
+}
+
+.contacts-address{
+  display: flex;
+  justify-content: space-between;
+  font-family: Didact Gothic;
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: auto;
+}
+
+.contacts-address > span{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+
+.about{
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+}
+
+
+.about-us > h2{
+  text-transform: uppercase;
+}
+
+.about-us > p{
+  font-family: Roboto;
+  font-size: 16px;
+}
+
+
+.geo-card{
+  width: 100%;
+  height:450px;
+  border:0;
+  
+}
+
+
+
+
+
 
 
 
