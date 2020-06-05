@@ -20,7 +20,7 @@ class App extends Component {
     }
     
     fetch = async () => {
-        const {data} = await Axios.get(`http://localhost:8001/products/`);
+        const {data} = await Axios.get(`http://localhost:8000/products/`);
         this.setState({data});
     }
 

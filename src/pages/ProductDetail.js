@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Kio from '../components/radio/Kio';
+import Contacts from './Contacts'
 
 
 class ProductDetail extends Component {
